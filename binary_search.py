@@ -1,5 +1,5 @@
 class BinarySearchSolution:
-    def binary_search(self, item_list: list[int], searched_item: int):
+    def binary_search(self, item_list: list[int], searched_item: int) -> int:
         left: int = 0
         
         right: int = len(item_list)-1

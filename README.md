@@ -1,2 +1,2 @@
-<h3>Here we go again :) This is UCBDev. I have started to solve algorithm problems from easy to difficult level in Leetcode. After completing every question, I am gonna commit them with unit tests to this repository.</h3>
+<h3>Here we go again :) This is UCBDev. I have started to solve algorithm problems from easy to difficult level in Leetcode. After completing every question, I am gonna commit them with their unit tests to this repository via Pytest.</h3>
 <small>Last year, I started this journey with C# but I stopped it shortly because of other professional engagements. This time I am gonna proceed with Python but slower because of the limited free time I have.</small>
